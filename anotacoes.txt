@@ -1,0 +1,13 @@
+Usar o GIN como web-framework:
+https://pkg.go.dev/github.com/gin-gonic/gin
+go get -u github.com/gin-gonic/gin
+
+ou o gorilla/mux
+
+
+
+Criar uma API de cotacoes
+
+Uma parte Web e outra a API que retorna as cotacoes
+
+
